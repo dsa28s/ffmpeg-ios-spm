@@ -8,8 +8,8 @@ let package = Package(
     platforms: [.iOS(.v16)],
     products: [
         .library(
-            name: "ffmpegkit",
-            targets: ["ffmpegkit", "libavcodec", "libavdevice", "libavfilter", "libavformat", "libavutil", "libswresample", "libswscale"]
+            name: "ffmpegkit_wrapper",
+            targets: ["ffmpegkit_wrapper"]
         ),
     ],
     targets: [
