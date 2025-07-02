@@ -14,35 +14,35 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ffmpegkit",
-            path: ""
+            path: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_155432/ffmpegkit-ios@20250702_155432.zip"
         ),
         .binaryTarget(
             name: "libavcodec",
-            path: ""
+            path: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_155432/ffmpegkit-ios@20250702_155432.zip"
         ),
         .binaryTarget(
             name: "libavdevice",
-            path: ""
+            path: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_155432/ffmpegkit-ios@20250702_155432.zip"
         ),
         .binaryTarget(
             name: "libavfilter",
-            path: ""
+            path: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_155432/ffmpegkit-ios@20250702_155432.zip"
         ),
         .binaryTarget(
             name: "libavformat",
-            path: ""
+            path: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_155432/ffmpegkit-ios@20250702_155432.zip"
         ),
         .binaryTarget(
             name: "libavutil",
-            path: ""
+            path: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_155432/ffmpegkit-ios@20250702_155432.zip"
         ),
         .binaryTarget(
             name: "libswresample",
-            path: ""
+            path: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_155432/ffmpegkit-ios@20250702_155432.zip"
         ),
         .binaryTarget(
             name: "libswscale",
-            path: ""
+            path: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_155432/ffmpegkit-ios@20250702_155432.zip"
         ),
     ]
 )
