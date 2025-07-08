@@ -19,43 +19,43 @@ let package = Package(
         ),
         .binaryTarget(
             name: "ffmpegkit",
-            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_192134/ffmpegkit-ios@20250702_192134.zip",
-            checksum: "d8a48b83d0707f435a22d1ef09e8121031b197c120315807b0e2a7bc008f8a36"
+            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250708_172051/ffmpegkit-ios@20250708_172051.zip",
+            checksum: "35f615ad971d8da907a6429e927870176a9cd825feaa7ea07c5c1e558482363b"
         ),
         .binaryTarget(
             name: "libavcodec",
-            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_192134/libavcodec-ios@20250702_192134.zip",
-            checksum: "bba9f948c4180ea2508a8476048496b8cb00ffc87fa2bad2771cfd56e4b8d99d"
+            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250708_172051/libavcodec-ios@20250708_172051.zip",
+            checksum: "8c44ff0341dcdd5bd4abe4ce85a791b0e600c8e8836ee745fbc2d2da48d4ffc1"
         ),
         .binaryTarget(
             name: "libavdevice",
-            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_192134/libavdevice-ios@20250702_192134.zip",
-            checksum: "f9a8acb21ef6c496c536a19d1a86d7c3ffb1cc61186eed4c87480139b33c8fb5"
+            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250708_172051/libavdevice-ios@20250708_172051.zip",
+            checksum: "850eb290439cba32d19cc8c8eb0835d9ba4d89881b51b269fb487f3ce6ca10cd"
         ),
         .binaryTarget(
             name: "libavfilter",
-            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_192134/libavfilter-ios@20250702_192134.zip",
-            checksum: "b751039ee73ef5782b760e50a30b7032da22e5b1f4b92eff9636eb18a9ff9b97"
+            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250708_172051/libavfilter-ios@20250708_172051.zip",
+            checksum: "813043efe2e34aab1247ff1985f3db168c9c7a56e95812f9e996326b77ec77eb"
         ),
         .binaryTarget(
             name: "libavformat",
-            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_192134/libavformat-ios@20250702_192134.zip",
-            checksum: "eacd60ae8c6ae6b3054a6d8b8fc3161bf82c71d823fb8e44196a17fdb5311d80"
+            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250708_172051/libavformat-ios@20250708_172051.zip",
+            checksum: "5df567ec299fc58b1496c96feb77227e36189e7e8b22aef6ab8cbbe08192daba"
         ),
         .binaryTarget(
             name: "libavutil",
-            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_192134/libavutil-ios@20250702_192134.zip",
-            checksum: "27b0128c2bfddc7d5393bfcdbefccb214c97d06b300b0004c94721a8700f304a"
+            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250708_172051/libavutil-ios@20250708_172051.zip",
+            checksum: "5e0ec3135162fa0ae01461a7d5f0ac175601cb91975a10c002f5a1e05f07fe8d"
         ),
         .binaryTarget(
             name: "libswresample",
-            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_192134/libswresample-ios@20250702_192134.zip",
-            checksum: "85e580279e44da52cab1fb2bc8572308593397fc45b18c42a085495c2a9cb59b"
+            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250708_172051/libswresample-ios@20250708_172051.zip",
+            checksum: "45001a4b5292b5d970c247cc581844ad83801949de700cb908ec66fb77924b55"
         ),
         .binaryTarget(
             name: "libswscale",
-            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250702_192134/libswscale-ios@20250702_192134.zip",
-            checksum: "04ffb65d50686b84f63f1ef62ec0acbcb96b2ef70c412c3cb564005473f4fc63"
+            url: "https://github.com/dsa28s/ffmpeg-ios-spm/releases/download/20250708_172051/libswscale-ios@20250708_172051.zip",
+            checksum: "fc5b228738ad99737ee33cd7adab7627446369915f214d38840f9ae8589b6938"
         ),
     ]
 )
